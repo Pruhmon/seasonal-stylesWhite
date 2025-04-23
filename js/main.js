@@ -62,3 +62,4 @@ $(document).ready(function () {
         $(".colors li").show(); // Show all colors on default
     }
   }
+  
